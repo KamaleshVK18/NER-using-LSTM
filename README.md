@@ -44,8 +44,8 @@ Train the model, evaluate on test data, and visualize training and validation lo
 
 
 ## PROGRAM
-### Name: Ahil Santo A
-### Register Number: 212224040018
+### Name: V Kamalesh Vijayakumar
+### Register Number: 212224110028
 ```python
 # Function for Model
 class BiLSTMTagger(nn.Module):
