@@ -5,7 +5,7 @@
 To develop an LSTM-based model for recognizing the named entities in the text.
 
 ## Problem Statement and Dataset
-
+ 
 The goal is to build a Named Entity Recognition (NER) system.
 It should identify entities like persons, organizations, locations, and dates in text.
 The model will be trained on a tagged dataset of words and their corresponding entity labels.
